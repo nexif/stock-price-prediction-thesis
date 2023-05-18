@@ -1,6 +1,7 @@
 # Predykcja cen akcji z wykorzystaniem uczenia maszynowego
-W tym repozytorium znajduje się kod źródłowy pracy magisterskiej o tytule "Predykcja cen instrumentów finansowych na giełdzie z wykorzystaniem metod uczenia maszynowego".
 
 Struktura repozytorium:
 - katalog `data` zawiera dane wykorzystane w pracy
-- plik 
+- plik `1. dane_źródłowe.ipynb` - odpowiada za pobieranie i przetworzenie danych źródłowych
+- plik `2. analiza i wizualizacja danych.ipynb` - zawiera wizualizacje cen akcji i innych atrybutów
+- plik `3. predykcje.ipynb` - zawiera algorytmy odpowiadające za przewidywanie cen akcji

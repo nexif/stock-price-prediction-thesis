@@ -1,0 +1,16 @@
+jupyter
+ipykernel
+ipywidgets
+pandas
+matplotlib
+yfinance
+yahooquery
+seaborn
+scipy
+statsmodels
+plotly
+scikit-learn
+keras
+tensorflow
+prophet
+pmdarima
